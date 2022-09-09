@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/**                                                                                           
+/**
  * main - Prints a random number and states whether
  * positive, negative or zero.
  * Description: using the main function
@@ -18,7 +18,7 @@ int main(void)
 		srand(time(0));
 		n = rand() - RAND_MAX / 2;
 		l = n % 10;
-							
+
 		if (l > 5)
 		{
 		printf("Last digit of %d is %d and is greater than 5\n", n, l);
