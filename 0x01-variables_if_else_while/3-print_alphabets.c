@@ -14,9 +14,11 @@ int main(void)
 		putchar(c);
 	}
 	for(c='A';c<='A';c++)
+	{
 		putchar(c);
 	}
 	putchar('\n');
+
 	return(0);
 }
 
