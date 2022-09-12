@@ -13,7 +13,6 @@ char c;
 {
 	putchar(c);
 }
-
 	for (c = 'A'; c <= 'Z'; c++)
 {
 	 putchar(c);
