@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _abs - function that computes the absolute value 
+ * _abs - function that computes the absolute value
  * @c: is the int that will use for the argu
  * Return: 0
  */
