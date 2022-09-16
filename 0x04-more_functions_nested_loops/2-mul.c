@@ -1,17 +1,13 @@
 #include "main.h"
 
 /**
- * _isupper - checks if a character is uppercase or not
- * @c: character to be tested
- * Return: 1 whether it is, 0 otherwise
+ * mul - multiplies two numbers
+ * @a: first number
+ * @b: second number
+ * Return: returns result
  */
 
-int _isupper(int c)
+int mul(int a, int b)
 {
-	if ((c >= 'A') && (c <= 'Z'))
-	{
-		return (1);
-	}
-
-	return (0);
+	return (a * b)
 }
