@@ -3,6 +3,8 @@
 
 /**
  * prints_most_numbers - prints numbers except 2 and 4
+ *
+ * @n: number to be read
  * Return: returns nothing
  */
 
