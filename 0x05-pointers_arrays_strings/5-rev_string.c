@@ -2,7 +2,7 @@
 
 /**
  * rev_string - reverse the string
- * @str: pointer to string
+ * @s: pointer to string
  *
  * Return: nothing.
  */
