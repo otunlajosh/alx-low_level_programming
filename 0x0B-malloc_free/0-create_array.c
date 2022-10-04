@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 
 /**
  * create_array - array for prints a string
@@ -12,7 +13,7 @@ char *create_array(unsigned int size, char c)
 char *buffer;
 unsigned int position;
 
-if (size == 0);
+if (size == 0)
 {
 	return (NULL);
 }
