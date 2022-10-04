@@ -34,5 +34,6 @@ else
 		*(buffer + position) = c;
 		position++;
 	}
+
 return (buffer);
 }
